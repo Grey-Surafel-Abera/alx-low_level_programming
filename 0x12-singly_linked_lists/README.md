@@ -1,1 +1,1 @@
-example about single linked list
+example about single linked lists
